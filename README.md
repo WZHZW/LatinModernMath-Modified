@@ -24,15 +24,6 @@ For details, see the [LICENSE](LICENSE) file included in this repository.
 
 ---
 
-## 📌 Naming
-To avoid confusion with the official version, this modified font is named:
-
-**Latin Modern Math Custom**
-
-This ensures it can coexist with the original *Latin Modern Math* on the same system without conflicts.
-
----
-
 ## 🙏 Acknowledgements
 - Original work: [GUST e-foundry](https://www.gust.org.pl/projects/e-foundry)  
 - License: [GUST Font License](http://www.gust.org.pl/projects/e-foundry/licenses)  
