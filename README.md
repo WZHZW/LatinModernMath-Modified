@@ -1,6 +1,6 @@
 # LatinModernMath-Modified 
 
-[简体中文](/README_ZH)
+[简体中文](/README_ZH.md)
 
 This repository provides a **modified version** of the [Latin Modern Math](https://www.gust.org.pl/projects/e-foundry/latin-modern) font, specifically aimed at solving an issue for users who want a LaTeX-like experience in Microsoft Word.
 
