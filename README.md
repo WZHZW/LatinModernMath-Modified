@@ -9,7 +9,7 @@ The original font was developed by **GUST e-foundry** and released under the **G
 Compared to the official *Latin Modern Math* font, this version includes:
 - Replacement of the **double-struck capital \mathbb{}** with a glyph based on the MSBM-style "ℝ".
 - Minor adjustments for compatibility in mathematical typesetting.
-
+![picture](/picture.png)
 All other glyphs and font features remain identical to the original version.
 
 ---
